@@ -12,5 +12,5 @@ MagicaVoxelでモデルを作ってBlenderでボーンとモーションつけ�
 ただし実際に使ってるモーションはユニティちゃんからの流用が多い．
 
 ## 詳細をまとめた記事
-後日書きます
+http://zenmaibane.hatenablog.com/entry/2017/09/07/001022
 
